@@ -2,36 +2,36 @@
     {
         "id":"Want your Ad here?",
         "N":"1",
-        "img":"costume1",
+        "img":"want your ad here.svg",
         "type":"href",
         "link":"https://docs.google.com/forms/d/14Sy6l_4l7MUQ2QdTSVzdEBdrnv45AH8LQCtAPVxL5V4"
     },
     {
         "id":"Epic E",
         "N":"2",
-        "img":"costume2",
+        "img":"epic e.svg",
         "type":"href",
         "link":"https://google.com.ua"
     },
     {
-        "id":"Discord",
+        "id":"BigPotatoDev",
         "N":"3",
-        "img":"costume3",
+        "img":"bigpotatodev.svg",
         "type":"href",
         "link":"https://discord.gg/a9suWVdxKh"
     },
     {
-        "id":"Game - Sniper",
+        "id":"Game--Sniper",
         "N":"4",
-        "img":"costume4",
+        "img":"sniper--fps game.svg",
         "type":"game",
         "link":"https://google.com.ua"
     },
     {
         "id":"PenguinWare Prototype",
         "N":"5",
-        "img":"costume5",
-        "type":"href",
+        "img":"penguinware prototype.svg",
+        "type":"game",
         "link":"https://google.com.ua"
     }
 ]
